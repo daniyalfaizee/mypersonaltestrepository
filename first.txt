@@ -1,2 +1,2 @@
 hello world
-the line only exists in newBr, not in main
+the line should only exist in newBr, not in main
