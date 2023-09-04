@@ -1,1 +1,2 @@
 hello world
+the line only exists in newBr, not in main
