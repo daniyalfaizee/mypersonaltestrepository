@@ -1,2 +1,2 @@
 hello world
-the line should now be in both
+the line should only exist in main, not in newBr
